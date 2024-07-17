@@ -20,7 +20,7 @@ Scikit-Learn: For implementing machine learning algorithms.
 Matplotlib & Seaborn: For data visualization.
 Getting Started
 Clone the repository:
-git clone https://github.com/yourusername/crop-yield-prediction.git
+git clone https://github.com/neer975/crop-yield-prediction.git
 
 Install dependencies:
 pip install -r requirements.txt
